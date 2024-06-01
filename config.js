@@ -14,15 +14,15 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
+global.autoTyping = true;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.statusseen = true;                 //make true to view statuses 
 
 
 //
 /*global.Owner = process.env.OWNER || "2347045174399";// Owner number
-global.OwnerNumber = process.env.OWNER_NUMBER || "2347045174399" ;// Also owner number
+global.OwnerNumber = process.env.OWNER_NUMBER || "947133173399" ;// Also owner number
 global.ownertag = process.env.OWNER_TAG || "2347045174399";// Also owner number
 global.sessID = process.env.sessID || ""; //Session ID here.
 global.OwnerName = process.env.OWNER_NAME || "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";// Owner Name
@@ -35,7 +35,7 @@ global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
 global.Owner = [""];
-global.OwnerNumber = [""];
+global.OwnerNumber = ["94713317339"];
 global.ownertag = [""]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
@@ -52,7 +52,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["/"];
+global.prefa = ["."];
 //process.env.PREFIX || "/";// Prefix                                 //Default prefix here.
 global.openAiAPI = "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";
 
